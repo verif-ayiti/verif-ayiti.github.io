@@ -1,6 +1,58 @@
 {
   "posts": [
     {
+      "slug": "enfant-decapite-saut-d-eau-vive-bukele",
+      "title": "Un enfant aurait été décapité par des gangs à Saut-d'Eau pour avoir crié « Vive Bukele »",
+      "claim": "Des membres de gangs de la coalition Viv Ansanm auraient décapité un enfant à Saut-d'Eau (Sodo, Centre) parce qu'il avait crié « Vive Bukele », ou parce que son père avait participé à une manifestation de soutien au président salvadorien",
+      "circulated": "X, en créole, en français, en anglais et en espagnol (une publication en anglais vue plus de 74 000 fois, une en créole plus de 36 000 fois, 21-22 nov.)",
+      "verdict": "Non vérifié",
+      "facts": "Depuis le 21 novembre 2026, des publications affirment qu'un enfant a été tué et décapité le 20 novembre à Saut-d'Eau, certaines accompagnées d'une vidéo très choquante montrant le corps d'un enfant transporté par des adultes. À ce jour, ni la Police nationale d'Haïti, ni l'ONU, ni aucun grand média n'a confirmé les faits, l'identité de la victime ou le mobile avancé. Les deux sites haïtiens qui en ont parlé, Alternance Media et Leboninfos, précisent eux-mêmes que ces informations n'ont pas pu être vérifiées de façon indépendante et qu'elles proviennent de témoignages relayés sur les réseaux sociaux. Les versions qui circulent se contredisent : l'enfant aurait 5 ans (publication en anglais la plus vue), 7 ans, 8 ans, « de 4 à 7 ans » ou « moins de 10 ans » selon les comptes. Le mobile change aussi : l'enfant aurait lui-même crié « Vive Bukele », ou son père aurait participé à une manifestation pro-Bukele; d'autres publications parlent seulement de tirs de membres de gangs sur la population de Sodo le 20 novembre, sans évoquer Bukele. Les auteurs sont désignés tantôt comme « Viv Ansanm », tantôt comme des alliés de Jeff Larose (« Jeff Gwo Lwa »), tantôt comme des « paramilitaires ». Le contexte est réel : Saut-d'Eau est tombée aux mains de groupes armés de la coalition Viv Ansanm le 3 avril 2025, après Mirebalais, lors d'attaques des gangs 400 Mawozo et Taliban (Canaan), selon le Réseau national de défense des droits humains (RNDDH). Des représailles contre des partisans de l'intervention salvadorienne ont aussi été signalées : le 17 novembre, El País, citant l'agence EFE et des médias locaux, a rapporté l'exécution d'au moins une dizaine de jeunes dans la plaine du Cul-de-Sac après la découverte d'images de Nayib Bukele dans leurs téléphones, sans que les noms des victimes soient publiés. Un meurtre a donc pu avoir lieu à Saut-d'Eau, mais l'âge de la victime, son identité, les auteurs et le lien avec Bukele ne sont pas établis. Par respect pour la victime et sa famille, mieux vaut ne pas repartager la vidéo.",
+      "date": "2026-11-22",
+      "date_display": "22 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-22",
+      "sources": [
+        {
+          "title": "Violences à Saut-d'eau : de nouvelles images choc circulent, des témoignages font état d'exactions contre des civils",
+          "site": "Alternance Media",
+          "date": "21 nov. 2026",
+          "href": "https://alternance-media.com/police-justice/violences-a-saut-deau-de-nouvelles-images-choc-circulent-des-temoignages-font-etat-dexactions-contre-des-civils/",
+          "primary": true
+        },
+        {
+          "title": "Un enfant de 8 ans aurait été décapité, selon des témoignages",
+          "site": "Leboninfos",
+          "date": "21 nov. 2026",
+          "href": "https://leboninfos.eu/enfant-decapite-saut-deau-haiti/"
+        },
+        {
+          "title": "Rapport sur la chute de Mirebalais et de Saut-d'Eau (en anglais)",
+          "site": "RNDDH",
+          "date": "11 avr. 2025",
+          "href": "https://web.rnddh.org/wp-content/uploads/2025/04/3-Rap.Chute-Mirebalais-et-Saut-d_eau.ENG_.11Avr2025.pdf"
+        },
+        {
+          "title": "Las pandillas haitianas vengan el apoyo a Bukele con el asesinato de al menos 10 personas en Puerto Príncipe",
+          "site": "El País",
+          "date": "17 nov. 2026",
+          "href": "https://elpais.com/america/2026-11-17/las-pandillas-haitianas-vengan-el-apoyo-a-bukele-con-el-asesinato-de-al-menos-10-personas-en-puerto-principe.html"
+        },
+        {
+          "title": "Publication virale (version « 5 ans »)",
+          "site": "X",
+          "date": "22 nov. 2026",
+          "href": "https://x.com/profdannyshaw/status/2124336343656362462"
+        },
+        {
+          "title": "Publication virale en créole (version « 7 ans »)",
+          "site": "X",
+          "date": "22 nov. 2026",
+          "href": "https://x.com/Wilner34529747/status/2124346217739976933"
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "soldats-salvadoriens-tues-par-des-gangs-explosion",
       "title": "Les soldats salvadoriens morts le 20 novembre auraient été tués par des gangs",
       "claim": "Deux soldats salvadoriens auraient été tués « par des gangs armés à la Croix-des-Bouquets », ou sous les balles du gang de « Doudoun » alors qu'ils installaient une barricade dans la zone de Pont-Tabarre; d'autres situent l'explosion pendant l'intervention à Martissant",

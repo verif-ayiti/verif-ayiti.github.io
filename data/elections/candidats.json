@@ -1,12 +1,12 @@
 {
- "snapshot_utc": "2026-11-21T13:19:48Z",
- "snapshot_display": "21 novembre 2026 à 8 h 19 (heure d'Haïti, UTC−5)",
+ "snapshot_utc": "2026-11-22T13:23:06Z",
+ "snapshot_display": "22 novembre 2026 à 8 h 23 (heure d'Haïti, UTC−5)",
  "snapshot_note": "Relevé effectué après la clôture des inscriptions en ligne pour la présidentielle, le Sénat et la députation (15 novembre 2026 à minuit). Dans sa note de presse CEP/DC/096-2526 du 16 novembre 2026, le CEP confirme cette clôture et annonce 33 candidats à la présidence, 535 au Sénat et 1 855 à la députation, qui ont encore jusqu'au 30 novembre pour déposer leurs pièces auprès des bureaux électoraux départementaux. L'inscription en ligne des candidats aux collectivités territoriales (maire, CASEC, ASEC) se poursuit jusqu'au 30 novembre 2026 : ces chiffres continuent donc d'augmenter. Les chiffres du tableau sont préliminaires.",
  "source_tableau": "https://tableau.cephaiti.ht/",
  "source_api": "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Président",
  "avis_cep": "Les données affichées sont dynamiques et strictement préliminaires. La liste officielle et définitive des candidats sera publiée par le CEP uniquement après le processus de vérification et de validation des dossiers.",
  "statut_affiche": "Inscrit en ligne (non validé par le CEP)",
- "total_tableau": 12951,
+ "total_tableau": 13244,
  "postes": [
   {
    "poste": "Président",
@@ -28,21 +28,21 @@
   },
   {
    "poste": "Maire",
-   "inscrits": 3014,
-   "hommes": 1939,
-   "femmes": 1075
+   "inscrits": 3058,
+   "hommes": 1967,
+   "femmes": 1091
   },
   {
    "poste": "CASEC",
-   "inscrits": 4378,
-   "hommes": 2874,
-   "femmes": 1504
+   "inscrits": 4505,
+   "hommes": 2956,
+   "femmes": 1549
   },
   {
    "poste": "ASEC",
-   "inscrits": 3136,
-   "hommes": 1841,
-   "femmes": 1295
+   "inscrits": 3258,
+   "hommes": 1912,
+   "femmes": 1346
   }
  ],
  "president": [

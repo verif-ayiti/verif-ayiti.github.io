@@ -1,5 +1,5 @@
 {
-  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 21 novembre 2026.",
+  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 22 novembre 2026.",
   "events": [
     {"date": "Oct. 2023", "sort": "2023-10", "event": "Le Conseil de sécurité autorise la mission MSS (résolution 2699)"},
     {"date": "25 juin 2024", "sort": "2024-06-25", "event": "Arrivée des 200 premiers policiers kényans"},
@@ -38,6 +38,7 @@
     {"date": "19-20 nov. 2026", "sort": "2026-11-19-b", "event": "Des publications sur X présentent comme récente la loi salvadorienne autorisant la participation des militaires du Salvador à la FRG jusqu'en octobre 2027, adoptée en réalité le 29 septembre 2026 (verdict : trompeur). D'autres attribuent l'opération de Martissant aux soldats salvadoriens, ce que dément la PNH (verdict : trompeur)"},
     {"date": "19 nov. 2026", "sort": "2026-11-19-c", "event": "La FRG annonce l'installation d'une base au nord de l'aéroport international Toussaint-Louverture, près de la route nationale 1 (Tabarre), pour y maintenir ses opérations contre les gangs et rétablir la circulation"},
     {"date": "20 nov. 2026", "sort": "2026-11-20", "event": "La Force armée du Salvador annonce que quatre de ses militaires ont été touchés par une détonation accidentelle en manipulant des explosifs dans un campement en Haïti : deux morts, puis un troisième décédé dans un hôpital de la République dominicaine. Ce sont les premiers décès annoncés du contingent salvadorien. Le même jour, le ministre haïtien de la Justice, Patrick Pélissier, de retour du Salvador (visite du CECOT le 18 nov.), annonce un accord pour la construction de trois prisons en Haïti avec une entreprise salvadorienne et une entreprise haïtienne (lieux, coût et financement non précisés)"},
-    {"date": "20-21 nov. 2026", "sort": "2026-11-20-b", "event": "Des publications sur X affirment que les soldats salvadoriens morts ont été tués par des gangs, ce que contredit la Force armée du Salvador (verdict : faux). Une vidéo de distribution d'eau tournée en Côte d'Ivoire est présentée comme un geste d'Haïtiens envers les soldats salvadoriens (AFP Factual, verdict : faux)"}
+    {"date": "20-21 nov. 2026", "sort": "2026-11-20-b", "event": "Des publications sur X affirment que les soldats salvadoriens morts ont été tués par des gangs, ce que contredit la Force armée du Salvador (verdict : faux). Une vidéo de distribution d'eau tournée en Côte d'Ivoire est présentée comme un geste d'Haïtiens envers les soldats salvadoriens (AFP Factual, verdict : faux)"},
+    {"date": "21-22 nov. 2026", "sort": "2026-11-21", "event": "Des publications virales sur X affirment que des gangs ont décapité un enfant à Saut-d'Eau (Sodo) pour avoir crié « Vive Bukele »; l'âge, l'identité et le mobile varient selon les versions et aucune source officielle ne les confirme (verdict : non vérifié)"}
   ]
 }
