@@ -32,9 +32,9 @@ Puis ouvrir <http://127.0.0.1:8080/>.
 
 ## Publication
 
-Le site est publié sur GitHub Pages : <https://lund2026.github.io/verif-haiti/>
+Le site est publié sur GitHub Pages : <https://verif-ayiti.github.io/>
 
-Le dépôt est [Lund2026/verif-haiti](https://github.com/Lund2026/verif-haiti). Chaque poussée sur `main` lance le flux `.github/workflows/pages.yml`, qui régénère le site (`python3 scripts/build.py`) et le déploie. L’URL de base et le sous-chemin du projet sont définis dans `data/site.json` (`site_url` et `base_path`). Les liens internes restent relatifs ; le fil RSS, le plan du site et `robots.txt` utilisent des URL absolues.
+Le dépôt est [verif-ayiti/verif-ayiti.github.io](https://github.com/verif-ayiti/verif-ayiti.github.io). Chaque poussée sur `main` lance le flux `.github/workflows/pages.yml`, qui régénère le site (`python3 scripts/build.py`) et le déploie. L’URL de base est définie dans `data/site.json` (`site_url`). Le site est publié à la racine du domaine (`base_path` est vide). Les liens internes restent relatifs ; le fil RSS, le plan du site et `robots.txt` utilisent des URL absolues. L’ancienne adresse <https://lund2026.github.io/verif-haiti/> redirige vers ce site.
 
 - **Netlify** (solution de rechange) : pointer le dépôt sur ce dossier et laisser `netlify.toml` publier le répertoire `public`.
 

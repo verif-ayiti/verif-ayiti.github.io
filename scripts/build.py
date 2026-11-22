@@ -88,7 +88,7 @@ def site_root(site: dict) -> str:
         return url
     base = (site.get("base_path") or "").strip("/")
     if base:
-        return f"https://lund2026.github.io/{base}"
+        return f"https://verif-ayiti.github.io/{base}"
     return ""
 
 
