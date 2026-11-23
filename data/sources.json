@@ -1,6 +1,66 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 22 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 23 novembre 2026.",
   "links": [
+    {
+      "title": "Les gangs exhibent un drone présenté comme « kamikaze » intercepté à Croix-des-Bouquets",
+      "site": "El Día",
+      "date": "18 nov. 2026",
+      "href": "https://eldia.com.do/haitianos-celebran-supuesta-interceptacion-de-dron-kamikaze-y-piden-paz-en-territorio-de-los-400-mawozo/"
+    },
+    {
+      "title": "« Ce n'est pas un drone salvadorien » : les révélations de César Moreno embarrassent les gangs",
+      "site": "L'Observatoire",
+      "date": "22 nov. 2026",
+      "href": "https://www.lobservatoire.info/ce-nest-pas-un-drone-salvadorien-les-revelations-de-cesar-moreno-embarrassent-les-gangs/"
+    },
+    {
+      "title": "Fil d'analyse du drone (modèle agricole Hylio ARES/HYL-150 modifié, exploitant inconnu) (en anglais)",
+      "site": "Pernicious Propaganda (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/natsecboogie/status/2124651064305570094"
+    },
+    {
+      "title": "Hommage aux trois militaires morts; essais de drones portant des grenades au Salvador (en espagnol)",
+      "site": "Nayib Bukele (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/nayibbukele/status/2124679341732941992"
+    },
+    {
+      "title": "Haiti: Drone Strikes Put Residents at Risk (en anglais)",
+      "site": "Human Rights Watch",
+      "date": "10 mars 2026",
+      "href": "https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk"
+    },
+    {
+      "title": "Opérations simultanées de la FRG à Cité Soleil, Tabarre et au nord de Gros-Morne",
+      "site": "Force de répression des gangs (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2124616662641188876"
+    },
+    {
+      "title": "Au moins six présumés membres de gangs tués près du pont Marassa (Tabarre)",
+      "site": "Force de répression des gangs (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2124661464510148763"
+    },
+    {
+      "title": "Visite du premier ministre à la base des soldats salvadoriens (en créole)",
+      "site": "Alix Didier Fils-Aimé (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/citoyendidier/status/2124669727792386097"
+    },
+    {
+      "title": "Fonds d'un million de dollars pour les familles des trois militaires morts (en espagnol)",
+      "site": "Nayib Bukele (X)",
+      "date": "22 nov. 2026",
+      "href": "https://x.com/nayibbukele/status/2124679446368043240"
+    },
+    {
+      "title": "Fuerza antipandillas lanza operaciones en Haití contra bandas armadas (EFE)",
+      "site": "Diario Libre",
+      "date": "22 nov. 2026",
+      "href": "https://www.diariolibre.com/mundo/haiti/2026/11/22/fuerza-antipandillas-lanza-operaciones-en-haiti-contra-bandas-armadas/3728489"
+    },
     {
       "title": "Violences à Saut-d'eau : de nouvelles images choc circulent, des témoignages font état d'exactions contre des civils",
       "site": "Alternance Media",

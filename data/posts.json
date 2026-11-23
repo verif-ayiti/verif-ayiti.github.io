@@ -1,6 +1,58 @@
 {
   "posts": [
     {
+      "slug": "drone-abattu-gangs-croix-des-bouquets-salvador",
+      "title": "Les gangs auraient abattu un drone des forces salvadoriennes à Croix-des-Bouquets",
+      "claim": "Les gangs 400 Mawozo et Taliban ont abattu ou intercepté à Croix-des-Bouquets un drone « kamikaze » des forces salvadoriennes; à l'inverse, des comptes affirment que ce drone n'est « pas salvadorien » et appartient à la société militaire privée Vectus Global",
+      "circulated": "Vidéos diffusées par des proches du gang 400 Mawozo (à partir du 18 nov.), puis X en espagnol, en anglais et en français (une publication en espagnol vue près de 50 000 fois, un fil d'analyse en anglais plus de 17 000 fois, 22 nov.)",
+      "verdict": "Non vérifié",
+      "facts": "Depuis le 18 novembre 2026, des vidéos montrent des membres de gangs à Croix-des-Bouquets, fief du gang 400 Mawozo de Wilson Joseph (« Lanmò Sanjou »), exhibant un gros drone posé au sol, présenté comme un drone « kamikaze » intercepté avant d'atteindre sa cible. Le quotidien dominicain El Día, qui a reçu ces vidéos de personnes liées à l'entourage de Wilson Joseph, précise qu'il n'a pas pu établir de façon indépendante comment l'appareil a été récupéré, s'il transportait des explosifs ni à quelle force il appartenait. Le 22 novembre, le journaliste salvadorien César Moreno a affirmé sur X que l'affirmation des gangs est fausse : selon lui, le Salvador n'exploite pas ce modèle de drone agricole lourd, qui appartiendrait aux contractuels de Vectus Global; le site haïtien L'Observatoire a relayé cette version, sans autre source. Un compte d'analyse en sources ouvertes estime de son côté que l'appareil est un drone agricole américain Hylio ARES/HYL-150 fortement modifié (ou un modèle dérivé), avec ce qui ressemble à un terminal Starlink et un mécanisme de largage, mais conclut qu'on ignore quelle entité l'exploitait. Ni la Force armée du Salvador, ni la FRG, ni la PNH, ni Vectus Global n'ont confirmé la perte d'un drone. Plusieurs acteurs utilisent des drones armés en Haïti : selon Human Rights Watch, la « Task Force » créée par le premier ministre Alix Didier Fils-Aimé mène depuis mars 2025 des frappes de drones chargés d'explosifs avec l'appui de Vectus Global, y compris à Croix-des-Bouquets; et Nayib Bukele a lui-même raconté le 22 novembre que deux de ses militaires morts en Haïti avaient désamorcé une grenade coincée dans un drone lors d'essais au Salvador, ce qui montre que l'armée salvadorienne utilise aussi des drones porteurs de charges. La présence d'un drone entre les mains des gangs semble donc réelle, mais ni la version des gangs (un drone salvadorien abattu) ni la version contraire (un drone de Vectus Global) n'est confirmée par une source officielle.",
+      "date": "2026-11-22",
+      "date_display": "22 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-23",
+      "sources": [
+        {
+          "title": "Les gangs exhibent un drone présenté comme « kamikaze » intercepté à Croix-des-Bouquets",
+          "site": "El Día",
+          "date": "18 nov. 2026",
+          "href": "https://eldia.com.do/haitianos-celebran-supuesta-interceptacion-de-dron-kamikaze-y-piden-paz-en-territorio-de-los-400-mawozo/",
+          "primary": true
+        },
+        {
+          "title": "« Ce n'est pas un drone salvadorien » : les révélations de César Moreno embarrassent les gangs",
+          "site": "L'Observatoire",
+          "date": "22 nov. 2026",
+          "href": "https://www.lobservatoire.info/ce-nest-pas-un-drone-salvadorien-les-revelations-de-cesar-moreno-embarrassent-les-gangs/"
+        },
+        {
+          "title": "Fil d'analyse du drone (modèle agricole Hylio ARES/HYL-150 modifié, exploitant inconnu) (en anglais)",
+          "site": "Pernicious Propaganda (X)",
+          "date": "22 nov. 2026",
+          "href": "https://x.com/natsecboogie/status/2124651064305570094"
+        },
+        {
+          "title": "Hommage aux trois militaires morts; essais de drones portant des grenades au Salvador (en espagnol)",
+          "site": "Nayib Bukele (X)",
+          "date": "22 nov. 2026",
+          "href": "https://x.com/nayibbukele/status/2124679341732941992"
+        },
+        {
+          "title": "Haiti: Drone Strikes Put Residents at Risk (en anglais)",
+          "site": "Human Rights Watch",
+          "date": "10 mars 2026",
+          "href": "https://www.hrw.org/news/2026/03/10/haiti-drone-strikes-put-residents-at-risk"
+        },
+        {
+          "title": "Publication virale (version « pas un drone salvadorien »)",
+          "site": "X",
+          "date": "22 nov. 2026",
+          "href": "https://x.com/CesarMorenoOK1/status/2124495276337483952"
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "enfant-decapite-saut-d-eau-vive-bukele",
       "title": "Un enfant aurait été décapité par des gangs à Saut-d'Eau pour avoir crié « Vive Bukele »",
       "claim": "Des membres de gangs de la coalition Viv Ansanm auraient décapité un enfant à Saut-d'Eau (Sodo, Centre) parce qu'il avait crié « Vive Bukele », ou parce que son père avait participé à une manifestation de soutien au président salvadorien",
