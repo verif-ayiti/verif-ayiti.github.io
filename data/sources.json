@@ -1,6 +1,48 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 23 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 24 novembre 2026.",
   "links": [
+    {
+      "title": "Un video de pandilleros capturados por militares salvadoreños en Haití fue creado con IA (en espagnol)",
+      "site": "AFP Factual",
+      "date": "23 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D8DM7KE"
+    },
+    {
+      "title": "Le Gouvernement reçoit dix véhicules blindés du BANUH au profit de la FRG (communiqué)",
+      "site": "Primature (X)",
+      "date": "23 nov. 2026",
+      "href": "https://x.com/PrimatureHT/status/2124995789395030505"
+    },
+    {
+      "title": "Le gouvernement reçoit dix véhicules blindés de l'ONU pour la Force de répression des gangs",
+      "site": "NAGO News",
+      "date": "23 nov. 2026",
+      "href": "https://news.nago.tv/le-gouvernement-recoit-dix-vehicules-blindes-de-l-onu-pour-la-frg"
+    },
+    {
+      "title": "Bilan des opérations de la FRG au nord de Gros-Morne (Pandou) (en anglais)",
+      "site": "Force de répression des gangs (X)",
+      "date": "23 nov. 2026",
+      "href": "https://x.com/GSForceHaiti/status/2124982363612451181"
+    },
+    {
+      "title": "La FRG poursuit son offensive à Port-au-Prince et à Gros-Morne",
+      "site": "Le Nouvelliste",
+      "date": "23 nov. 2026",
+      "href": "https://beta.lenouvelliste.com/article/274189/a"
+    },
+    {
+      "title": "Bukele envía vehículos blindados a Haití (en espagnol)",
+      "site": "Diario El Salvador",
+      "date": "23 nov. 2026",
+      "href": "https://diarioelsalvador.com/depais/bukele-envia-vehiculos-blindados-a-haiti/879388"
+    },
+    {
+      "title": "Fuerza de Supresión de Pandillas lanza 3 operativos en Haití (EFE) (en espagnol)",
+      "site": "Hoy",
+      "date": "23 nov. 2026",
+      "href": "https://hoy.com.do/el-mundo/fuerza-supresion-pandillas-lanza-3-operativos-haiti_1109521.html"
+    },
     {
       "title": "Les gangs exhibent un drone présenté comme « kamikaze » intercepté à Croix-des-Bouquets",
       "site": "El Día",

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "slug": "video-ia-soldats-salvadoriens-pandilleros-a-genoux",
+      "title": "Une vidéo montre des soldats salvadoriens mettant à genoux des membres de gangs capturés en Haïti",
+      "claim": "« L'armée du Salvador met à genoux des pandilleros haïtiens après les avoir capturés dans le cadre de l'opération militaire de Bukele en Haïti »",
+      "circulated": "X (publication de La Derecha Diario, 18 nov., vue plus de 27 000 fois), TikTok, Facebook et Instagram, aussi en anglais, portugais, allemand et arabe; partagée près de 8 000 fois selon l'AFP; reprise par l'eurodéputé Dominik Tarczyński",
+      "verdict": "Faux",
+      "facts": "Selon AFP Factual (23 nov. 2026), cette vidéo de 25 secondes, composée de deux séquences, présente des incohérences visuelles typiques des contenus générés par intelligence artificielle : dans la première séquence, des genoux apparaissent avant que le reste du corps n'émerge soudainement, et les genoux d'un des supposés membres de gangs se déforment à partir de la cinquième seconde; dans la seconde, le chargeur d'une arme puis la main d'un soldat apparaissent subitement. Les uniformes ne correspondent pas à ceux de la Force armée du Salvador : le drapeau figure sur le bras gauche d'un militaire, alors que sur les uniformes authentiques il est toujours sur le bras droit, avec le nom du pays dans la bande blanche et un écusson en dessous, et l'écusson d'épaule visible dans la vidéo n'est pas celui de l'institution. Aucun média ni aucune publication officielle n'a diffusé ces images. Les soldats salvadoriens mènent bien des opérations réelles en Haïti (frappes par hélicoptère contre des résidences de chefs de gangs, démolition du quartier général de 400 Mawozo selon des vidéos publiées par Nayib Bukele), mais cette vidéo n'en montre aucune.",
+      "date": "2026-11-23",
+      "date_display": "23 novembre 2026",
+      "date_precision": "day",
+      "updated": "2026-11-24",
+      "sources": [
+        {
+          "title": "Un video de pandilleros capturados por militares salvadoreños en Haití fue creado con IA (en espagnol)",
+          "site": "AFP Factual",
+          "date": "23 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D8DM7KE",
+          "primary": true
+        },
+        {
+          "title": "Publication virale (« El Ejército de El Salvador pone de rodillas a pandilleros haitianos »)",
+          "site": "La Derecha Diario (X)",
+          "date": "18 nov. 2026",
+          "href": "https://x.com/laderechadiario/status/2123125334724038876"
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "drone-abattu-gangs-croix-des-bouquets-salvador",
       "title": "Les gangs auraient abattu un drone des forces salvadoriennes à Croix-des-Bouquets",
       "claim": "Les gangs 400 Mawozo et Taliban ont abattu ou intercepté à Croix-des-Bouquets un drone « kamikaze » des forces salvadoriennes; à l'inverse, des comptes affirment que ce drone n'est « pas salvadorien » et appartient à la société militaire privée Vectus Global",
