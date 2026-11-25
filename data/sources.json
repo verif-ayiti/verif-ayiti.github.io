@@ -1,5 +1,5 @@
 {
-  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 24 novembre 2026.",
+  "intro": "Sources officielles et médiatiques citées dans les vérifications, à jour au 25 novembre 2026.",
   "links": [
     {
       "title": "Un video de pandilleros capturados por militares salvadoreños en Haití fue creado con IA (en espagnol)",
@@ -756,6 +756,24 @@
       "site": "Search for Common Ground",
       "date": null,
       "href": "https://cnxus.org/wp-content/uploads/2026/09/261026-SFCG-Haiti-research-report_Eng.pdf"
+    },
+    {
+      "title": "Vidéo IA de soldats salvadoriens transportant des membres de gangs (en espagnol)",
+      "site": "AFP Factual",
+      "date": "24 nov. 2026",
+      "href": "https://factual.afp.com/doc.afp.com.D8EF6WF"
+    },
+    {
+      "title": "Le premier ministre haïtien défend l'accord avec le Salvador",
+      "site": "TVA Nouvelles (AFP)",
+      "date": "24 nov. 2026",
+      "href": "https://www.tvanouvelles.ca/2026/11/24/le-premier-ministre-haitien-defend-laccord-avec-le-salvador-face-a-lurgence-securitaire"
+    },
+    {
+      "title": "La FRG annonce une extension progressive de ses opérations jusqu'à Saint-Marc",
+      "site": "Vant Bèf Info",
+      "date": "24 nov. 2026",
+      "href": "https://vantbefinfo.com/securite-la-frg-annonce-une-extension-progressive-de-ses-operations-jusqua-saint-marc/"
     }
   ]
 }

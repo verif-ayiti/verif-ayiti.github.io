@@ -1,49 +1,235 @@
 {
   "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 24 novembre 2026.",
   "events": [
-    {"date": "Oct. 2023", "sort": "2023-10", "event": "Le Conseil de sécurité autorise la mission MSS (résolution 2699)"},
-    {"date": "25 juin 2024", "sort": "2024-06-25", "event": "Arrivée des 200 premiers policiers kényans"},
-    {"date": "30 sept. 2025", "sort": "2025-09-30", "event": "Résolution 2793 : transition vers la FRG pour 12 mois"},
-    {"date": "1er avril 2026", "sort": "2026-04-01", "event": "Le Bureau d'appui de l'ONU (UNSOH) devient pleinement opérationnel; départ des troupes kényanes en avril"},
-    {"date": "1er juin 2026", "sort": "2026-06-01", "event": "Début officiel des opérations de la FRG"},
-    {"date": "27 juillet 2026", "sort": "2026-07-27", "event": "Accord sur le statut de la force avec le gouvernement haïtien"},
-    {"date": "29 sept. 2026", "sort": "2026-09-29", "event": "Résolution 2829 : mandat prolongé jusqu'au 31 mars 2027"},
-    {"date": "18 oct. 2026", "sort": "2026-10-18", "event": "Disparition de 4 techniciens salvadoriens de la FRG près de Port-au-Prince"},
-    {"date": "Fin oct. 2026", "sort": "2026-10-31", "event": "Le Salvador envoie plus de 2 000 soldats, surtout hors FRG"},
-    {"date": "2 nov. 2026", "sort": "2026-11-02-a", "event": "La Police nationale d'Haïti lance, avec l'appui de la FRG, une vaste opération dans la plaine du Cul-de-Sac (Carrefour Chada, Pont Quatre Missions, Santo 17). Les troupes salvadoriennes y mènent leur première grande offensive contre les gangs Chen Mechan et 400 Mawozo"},
-    {"date": "2 nov. 2026", "sort": "2026-11-02-b", "event": "Opération conjointe PNH–FRG–troupes salvadoriennes à Santo (Croix-des-Bouquets) : découverte du véhicule calciné des quatre techniciens salvadoriens; les hommes restent introuvables (annonce PNH / AP, 4 nov.)"},
-    {"date": "3 nov. 2026", "sort": "2026-11-03", "event": "Le chef de gang Wilson Joseph demande une médiation à l'ONU, qui prend ses distances. Le premier ministre Fils-Aimé affirme que la direction des forces étrangères revient à Haïti"},
-    {"date": "4-5 nov. 2026", "sort": "2026-11-04", "event": "AFP Factual démonte trois nouvelles vidéos africaines faussement liées aux opérations en Haïti. Rumeur virale (fausse) d'une capture de Wilson Joseph. Bukele publie des vidéos de patrouilles salvadoriennes à Port-au-Prince"},
-    {"date": "5 nov. 2026", "sort": "2026-11-05-a", "event": "L'Allemagne facilite l'acheminement de 525 tonnes d'équipements du Bangladesh pour le contingent bangladais de la FRG (ambassade d'Allemagne / Le Nouvelliste)"},
-    {"date": "5 nov. 2026", "sort": "2026-11-05-b", "event": "AFP Factual démonte une vidéo du Kazakhstan présentée comme le « premier affrontement » Salvador–gangs en Haïti"},
-    {"date": "5-6 nov. 2026", "sort": "2026-11-05-c", "event": "Rumeur non confirmée de la capture en mer de Jean Saint-Louis alias « Kenken »; un média à l'origine de l'annonce publie une rectification"},
-    {"date": "6 nov. 2026", "sort": "2026-11-06", "event": "La PNH et le premier ministre confirment la mort de Mathias Saintil, chef du gang Boston (Cité Soleil). Manifestations de soutien aux troupes salvadoriennes à Port-au-Prince, Jérémie et Belladère (EFE / Reuters). Lead Stories démontre que la photo de la « capture » de Wilson Joseph a été générée par IA. Le gang 400 Mawozo dit avoir contacté l'organisme public chargé du désarmement des gangs pour un dialogue (AP)"},
-    {"date": "7 nov. 2026", "sort": "2026-11-07", "event": "Le porte-parole de la FRG, Igor Rugwiza, précise que les soldats salvadoriens relèvent soit de la FRG, soit d'un commandement salvadorien bilatéral, et que la mission de la FRG ne se limite pas à Croix-des-Bouquets ni au département de l'Ouest (Infobae)"},
-    {"date": "8 nov. 2026", "sort": "2026-11-08", "event": "Des médias haïtiens, citant une source policière, rapportent la destruction par drones d'une résidence attribuée à Wilson Joseph (400 Mawozo) à Croix-des-Bouquets, lors d'une opération PNH–FRG–Task Force–militaires salvadoriens; pas de communiqué officiel trouvé. Le Salvador marque 21 jours depuis la disparition de ses quatre techniciens, toujours introuvables"},
-    {"date": "9 nov. 2026", "sort": "2026-11-09", "event": "Le Miami Herald confirme, de plusieurs sources, la frappe de drones contre la résidence de Lanmò Sanjou (plusieurs hommes armés tués, Joseph absent). Réunion de coordination entre le ministre de la Défense Mario Andrésol, le directeur de la PNH Vladimir Paraison et le commandant de la FRG Erdenebat Batsuuri. Marco Rubio : la FRG compte un peu plus de 2 000 soldats et « il n'y a pas de plan B »"},
-    {"date": "10 nov. 2026", "sort": "2026-11-10", "event": "Bukele publie sur X une vidéo de la frappe du 8 nov. et affirme avoir détruit le QG de 400 Mawozo; l'AFP précise qu'il s'agissait d'une opération de la PNH appuyée par des Salvadoriens. Le président dominicain Abinader dit fournir logistique et renseignement au Salvador; la FRG insiste sur la coordination entre forces. Amnistie internationale réclame la publication de l'accord Haïti-Salvador. L'AP annonce une visite du premier ministre Fils-Aimé au Salvador la semaine suivante. Axios révèle que le chargé d'affaires américain avait demandé le 4 nov. une pause des opérations salvadoriennes jusqu'à une coordination avec la FRG; le Salvador conteste"},
-    {"date": "11 nov. 2026", "sort": "2026-11-11", "event": "La FRG annonce sur X une opération au nord de l'aéroport Toussaint-Louverture et la saisie d'armes et de munitions, sans en préciser la quantité. Le RNDDH dénonce les rumeurs d'un départ des soldats salvadoriens. Le vice-président salvadorien Félix Ulloa fixe la visite de Fils-Aimé aux 16 et 17 nov. Déclaration du G7 en appui à la FRG"},
-    {"date": "12 nov. 2026", "sort": "2026-11-12", "event": "Opération de la FRG à Cité Soleil : un présumé membre de gang tué, deux blessés, armes, munitions et cocktails Molotov saisis (Le Nouvelliste). La PNH annonce la reprise du stade Sylvio-Cator et le remet aux militaires salvadoriens, qui veulent y établir une base; Bukele affirme que des crânes humains y ont été découverts"},
-    {"date": "13 nov. 2026", "sort": "2026-11-13-a", "event": "Le porte-parole de la FRG confirme que la FRG n'a aucune supervision sur le nouveau contingent salvadorien (accord bilatéral). Bukele publie une vidéo de ses soldats dans le stade et lance un ultimatum aux gangs (AP). La PNH affirme avoir mené la reprise du stade elle-même (Miami Herald, 14 nov.)"},
-    {"date": "13 nov. 2026", "sort": "2026-11-13-b", "event": "La FRG mène une opération à Fort-Dimanche (Cité Soleil) : un présumé membre de gang tué, 18 armes à feu et des munitions saisies, un atelier de réparation d'armes découvert (FRG sur X). Le Canada réunit à Washington plus de 100 partenaires diplomatiques et le sous-secrétaire d'État adjoint américain pour l'hémisphère occidental pour soutenir la FRG (Le Nouvelliste)"},
-    {"date": "14 nov. 2026", "sort": "2026-11-14", "event": "Selon KOACI (sources concordantes), 812 militaires ivoiriens doivent rejoindre la FRG pour six mois, avec un état-major d'une centaine de militaires attendu à partir du 23 nov. Le nom du premier ministre Fils-Aimé disparaît de la liste des intervenants de la conférence des 16-17 nov. au Salvador, ce qui ne confirme pas, à lui seul, l'annulation de sa visite (Haitian Globe)"},
-    {"date": "14 nov. 2026", "sort": "2026-11-14-b", "event": "Massacre à Morne-Robert (Saint-Marc, Artibonite) attribué au gang Gran Grif : au moins dix agriculteurs tués selon Radio Télé Galaxie (EFE); d'autres médias locaux avancent des bilans plus élevés, non confirmés officiellement. Au Nu Stadium de Miami, pendant le match Haïti–États-Unis, une partie des supporters haïtiens scande « Bukele » (NAGO, Infobae)"},
-    {"date": "15 nov. 2026", "sort": "2026-11-15", "event": "Première offensive d'envergure de la FRG dans l'Artibonite : avec la PNH, des troupes sri-lankaises de la FRG attaquent à l'aube un bastion du gang Kokorat San Ras à Carnifice/Tibwadòm (nord de Gros-Morne); selon la FRG, cinq présumés membres de gangs tués, une église et une école reprises, des barricades et tranchées démantelées sur la route nationale 5 (FRG sur X, Miami Herald). Selon l'EFE, la FRG compte 2 181 policiers et militaires. Le ministre de la Justice Patrick Pélissier part au Salvador pour représenter le premier ministre Fils-Aimé à la conférence des 16-17 nov., à la place de la visite annoncée par le vice-président Ulloa (EFE)"},
-    {"date": "16 nov. 2026", "sort": "2026-11-16", "event": "À San Salvador, le ministre salvadorien de la Sécurité Gustavo Villatoro affirme que ses troupes quitteront Haïti dès que les quatre aérotechniciens disparus seront retrouvés; son homologue haïtien Patrick Pélissier, venu représenter le premier ministre Fils-Aimé, se dit favorable à une prolongation du déploiement et explique que le premier ministre prépare de prochaines rencontres sur ce sujet (AFP, Reuters). Le vice-président Félix Ulloa refuse de publier l'accord bilatéral de sécurité tant que les conditions ne le permettent pas (Prensa Latina, Le Quotidien 509). Le CEP signe la note CEP/DC/096-2526 confirmant la clôture de l'inscription en ligne : 33 candidats à la présidence, 535 au Sénat, 1 855 à la députation"},
-    {"date": "17 nov. 2026", "sort": "2026-11-17", "event": "Le CEP publie sur X sa note du 16 novembre sur la clôture des inscriptions; les candidats ont jusqu'au 30 novembre pour déposer leurs pièces, et l'inscription en ligne aux collectivités territoriales se poursuit jusqu'à la même date. Un « rapport de renseignement » viral sur X affirme sans preuve que la rencontre Fils-Aimé–Bukele a été « suspendue » et que le premier ministre est « en campagne » (voir la vérification)"},
-    {"date": "17 nov. 2026", "sort": "2026-11-17-b", "event": "Des milliers de personnes manifestent à Port-au-Prince en soutien aux soldats salvadoriens (heurts et gaz lacrymogène en fin de cortège). Le Conseil des ministres entérine un « accord de coopération » avec le Salvador, dont le texte et la durée ne sont pas publiés. Le Haut-Commissariat de l'ONU aux droits de l'homme recense 4 595 morts et 2 050 blessés par la violence armée de janvier à octobre 2026 (AFP / France 24)"},
-    {"date": "18 nov. 2026", "sort": "2026-11-18", "event": "Des publications sur X affirment que l'accord garantit le maintien des troupes salvadoriennes jusqu'aux élections (verdict : trompeur)"},
-    {"date": "18 nov. 2026", "sort": "2026-11-18-b", "event": "Pour l'anniversaire de la bataille de Vertières, Nayib Bukele publie une vidéo d'hélicoptères salvadoriens frappant la résidence de Jeff Larose (« Jeff Canaan », gang « Taliban ») à Canaan; on ignore si le chef de gang a été tué. La FRG dit ne pas avoir participé à l'opération; deuxième jour de manifestations pro-Bukele à Port-au-Prince (AP). La FRG poursuit son offensive au nord de Gros-Morne (Artibonite), le long de la route nationale 5 (communiqué de la FRG, 18 nov.). Une délégation du CEP et du PNUD évalue à Copenhague des échantillons de matériel électoral (CEP sur X)"},
-    {"date": "19 nov. 2026", "sort": "2026-11-19", "event": "La PNH et la Task Force mènent à Martissant (Martissant 2, 4 et 23) une vaste opération contre le gang de Grand Ravine de « Ti Lapli »; la PNH annonce 34 présumés bandits tués et précise qu'aucun personnel salvadorien n'y a participé (Reuters, AP). La FRG dit entrer dans une « nouvelle phase » et poursuit ses opérations à Tabarre, le long de la route nationale 1 au nord de l'aéroport et de la route nationale 5 au nord de Gros-Morne (FRG / AP)"},
-    {"date": "19-20 nov. 2026", "sort": "2026-11-19-b", "event": "Des publications sur X présentent comme récente la loi salvadorienne autorisant la participation des militaires du Salvador à la FRG jusqu'en octobre 2027, adoptée en réalité le 29 septembre 2026 (verdict : trompeur). D'autres attribuent l'opération de Martissant aux soldats salvadoriens, ce que dément la PNH (verdict : trompeur)"},
-    {"date": "19 nov. 2026", "sort": "2026-11-19-c", "event": "La FRG annonce l'installation d'une base au nord de l'aéroport international Toussaint-Louverture, près de la route nationale 1 (Tabarre), pour y maintenir ses opérations contre les gangs et rétablir la circulation"},
-    {"date": "20 nov. 2026", "sort": "2026-11-20", "event": "La Force armée du Salvador annonce que quatre de ses militaires ont été touchés par une détonation accidentelle en manipulant des explosifs dans un campement en Haïti : deux morts, puis un troisième décédé dans un hôpital de la République dominicaine. Ce sont les premiers décès annoncés du contingent salvadorien. Le même jour, le ministre haïtien de la Justice, Patrick Pélissier, de retour du Salvador (visite du CECOT le 18 nov.), annonce un accord pour la construction de trois prisons en Haïti avec une entreprise salvadorienne et une entreprise haïtienne (lieux, coût et financement non précisés)"},
-    {"date": "20-21 nov. 2026", "sort": "2026-11-20-b", "event": "Des publications sur X affirment que les soldats salvadoriens morts ont été tués par des gangs, ce que contredit la Force armée du Salvador (verdict : faux). Une vidéo de distribution d'eau tournée en Côte d'Ivoire est présentée comme un geste d'Haïtiens envers les soldats salvadoriens (AFP Factual, verdict : faux)"},
-    {"date": "21-22 nov. 2026", "sort": "2026-11-21", "event": "Des publications virales sur X affirment que des gangs ont décapité un enfant à Saut-d'Eau (Sodo) pour avoir crié « Vive Bukele »; l'âge, l'identité et le mobile varient selon les versions et aucune source officielle ne les confirme (verdict : non vérifié)"},
-    {"date": "22 nov. 2026", "sort": "2026-11-22", "event": "La FRG mène des opérations simultanées à Cité Soleil (un présumé membre de gang tué, un blessé), à Tabarre près du pont Marassa (au moins six présumés membres de gangs tués, cinq fusils saisis) et au nord de Gros-Morne (Artibonite). Le premier ministre Alix Didier Fils-Aimé visite la base des soldats salvadoriens. Nayib Bukele nomme les trois militaires morts le 20 nov. et annonce un fonds d'un million de dollars pour leurs familles"},
-    {"date": "18-22 nov. 2026", "sort": "2026-11-22-b", "event": "Des vidéos montrent des membres du gang 400 Mawozo exhibant à Croix-des-Bouquets un drone présenté comme salvadorien et intercepté; des comptes sur X affirment au contraire qu'il appartient à Vectus Global. Aucune source officielle ne confirme l'une ou l'autre version (verdict : non vérifié)"},
-    {"date": "21 nov. 2026", "sort": "2026-11-21-b", "event": "Nayib Bukele publie sur X des images d'un nouveau lot de véhicules tout-terrain blindés envoyés à ses troupes en Haïti (au moins 20 selon Diario El Salvador); la présidence salvadorienne dit qu'il renforce la recherche des quatre aérotechniciens disparus"},
-    {"date": "23 nov. 2026", "sort": "2026-11-23", "event": "Le gouvernement haïtien reçoit dix véhicules blindés du Bureau d'appui des Nations unies en Haïti (BANUH/UNSOH) pour la FRG; le premier ministre Alix Didier Fils-Aimé en remet les clés au représentant spécial de la FRG, Jack Christofides (Primature). La FRG annonce la saisie de 10 armes à feu, d'environ 110 cartouches et de grenades lors d'opérations à Pandou, au nord de Gros-Morne (22 nov.). La PNH porte à 54 le nombre de présumés membres de gangs tués à Martissant les 19 et 20 nov. (EFE)"},
-    {"date": "18-23 nov. 2026", "sort": "2026-11-23-b", "event": "Une vidéo montrant des soldats salvadoriens mettant à genoux des membres de gangs capturés en Haïti, partagée près de 8 000 fois, a été générée par intelligence artificielle (AFP Factual, verdict : faux)"}
+    {
+      "date": "Oct. 2023",
+      "sort": "2023-10",
+      "event": "Le Conseil de sécurité autorise la mission MSS (résolution 2699)"
+    },
+    {
+      "date": "25 juin 2024",
+      "sort": "2024-06-25",
+      "event": "Arrivée des 200 premiers policiers kényans"
+    },
+    {
+      "date": "30 sept. 2025",
+      "sort": "2025-09-30",
+      "event": "Résolution 2793 : transition vers la FRG pour 12 mois"
+    },
+    {
+      "date": "1er avril 2026",
+      "sort": "2026-04-01",
+      "event": "Le Bureau d'appui de l'ONU (UNSOH) devient pleinement opérationnel; départ des troupes kényanes en avril"
+    },
+    {
+      "date": "1er juin 2026",
+      "sort": "2026-06-01",
+      "event": "Début officiel des opérations de la FRG"
+    },
+    {
+      "date": "27 juillet 2026",
+      "sort": "2026-07-27",
+      "event": "Accord sur le statut de la force avec le gouvernement haïtien"
+    },
+    {
+      "date": "29 sept. 2026",
+      "sort": "2026-09-29",
+      "event": "Résolution 2829 : mandat prolongé jusqu'au 31 mars 2027"
+    },
+    {
+      "date": "18 oct. 2026",
+      "sort": "2026-10-18",
+      "event": "Disparition de 4 techniciens salvadoriens de la FRG près de Port-au-Prince"
+    },
+    {
+      "date": "Fin oct. 2026",
+      "sort": "2026-10-31",
+      "event": "Le Salvador envoie plus de 2 000 soldats, surtout hors FRG"
+    },
+    {
+      "date": "2 nov. 2026",
+      "sort": "2026-11-02-a",
+      "event": "La Police nationale d'Haïti lance, avec l'appui de la FRG, une vaste opération dans la plaine du Cul-de-Sac (Carrefour Chada, Pont Quatre Missions, Santo 17). Les troupes salvadoriennes y mènent leur première grande offensive contre les gangs Chen Mechan et 400 Mawozo"
+    },
+    {
+      "date": "2 nov. 2026",
+      "sort": "2026-11-02-b",
+      "event": "Opération conjointe PNH–FRG–troupes salvadoriennes à Santo (Croix-des-Bouquets) : découverte du véhicule calciné des quatre techniciens salvadoriens; les hommes restent introuvables (annonce PNH / AP, 4 nov.)"
+    },
+    {
+      "date": "3 nov. 2026",
+      "sort": "2026-11-03",
+      "event": "Le chef de gang Wilson Joseph demande une médiation à l'ONU, qui prend ses distances. Le premier ministre Fils-Aimé affirme que la direction des forces étrangères revient à Haïti"
+    },
+    {
+      "date": "4-5 nov. 2026",
+      "sort": "2026-11-04",
+      "event": "AFP Factual démonte trois nouvelles vidéos africaines faussement liées aux opérations en Haïti. Rumeur virale (fausse) d'une capture de Wilson Joseph. Bukele publie des vidéos de patrouilles salvadoriennes à Port-au-Prince"
+    },
+    {
+      "date": "5 nov. 2026",
+      "sort": "2026-11-05-a",
+      "event": "L'Allemagne facilite l'acheminement de 525 tonnes d'équipements du Bangladesh pour le contingent bangladais de la FRG (ambassade d'Allemagne / Le Nouvelliste)"
+    },
+    {
+      "date": "5 nov. 2026",
+      "sort": "2026-11-05-b",
+      "event": "AFP Factual démonte une vidéo du Kazakhstan présentée comme le « premier affrontement » Salvador–gangs en Haïti"
+    },
+    {
+      "date": "5-6 nov. 2026",
+      "sort": "2026-11-05-c",
+      "event": "Rumeur non confirmée de la capture en mer de Jean Saint-Louis alias « Kenken »; un média à l'origine de l'annonce publie une rectification"
+    },
+    {
+      "date": "6 nov. 2026",
+      "sort": "2026-11-06",
+      "event": "La PNH et le premier ministre confirment la mort de Mathias Saintil, chef du gang Boston (Cité Soleil). Manifestations de soutien aux troupes salvadoriennes à Port-au-Prince, Jérémie et Belladère (EFE / Reuters). Lead Stories démontre que la photo de la « capture » de Wilson Joseph a été générée par IA. Le gang 400 Mawozo dit avoir contacté l'organisme public chargé du désarmement des gangs pour un dialogue (AP)"
+    },
+    {
+      "date": "7 nov. 2026",
+      "sort": "2026-11-07",
+      "event": "Le porte-parole de la FRG, Igor Rugwiza, précise que les soldats salvadoriens relèvent soit de la FRG, soit d'un commandement salvadorien bilatéral, et que la mission de la FRG ne se limite pas à Croix-des-Bouquets ni au département de l'Ouest (Infobae)"
+    },
+    {
+      "date": "8 nov. 2026",
+      "sort": "2026-11-08",
+      "event": "Des médias haïtiens, citant une source policière, rapportent la destruction par drones d'une résidence attribuée à Wilson Joseph (400 Mawozo) à Croix-des-Bouquets, lors d'une opération PNH–FRG–Task Force–militaires salvadoriens; pas de communiqué officiel trouvé. Le Salvador marque 21 jours depuis la disparition de ses quatre techniciens, toujours introuvables"
+    },
+    {
+      "date": "9 nov. 2026",
+      "sort": "2026-11-09",
+      "event": "Le Miami Herald confirme, de plusieurs sources, la frappe de drones contre la résidence de Lanmò Sanjou (plusieurs hommes armés tués, Joseph absent). Réunion de coordination entre le ministre de la Défense Mario Andrésol, le directeur de la PNH Vladimir Paraison et le commandant de la FRG Erdenebat Batsuuri. Marco Rubio : la FRG compte un peu plus de 2 000 soldats et « il n'y a pas de plan B »"
+    },
+    {
+      "date": "10 nov. 2026",
+      "sort": "2026-11-10",
+      "event": "Bukele publie sur X une vidéo de la frappe du 8 nov. et affirme avoir détruit le QG de 400 Mawozo; l'AFP précise qu'il s'agissait d'une opération de la PNH appuyée par des Salvadoriens. Le président dominicain Abinader dit fournir logistique et renseignement au Salvador; la FRG insiste sur la coordination entre forces. Amnistie internationale réclame la publication de l'accord Haïti-Salvador. L'AP annonce une visite du premier ministre Fils-Aimé au Salvador la semaine suivante. Axios révèle que le chargé d'affaires américain avait demandé le 4 nov. une pause des opérations salvadoriennes jusqu'à une coordination avec la FRG; le Salvador conteste"
+    },
+    {
+      "date": "11 nov. 2026",
+      "sort": "2026-11-11",
+      "event": "La FRG annonce sur X une opération au nord de l'aéroport Toussaint-Louverture et la saisie d'armes et de munitions, sans en préciser la quantité. Le RNDDH dénonce les rumeurs d'un départ des soldats salvadoriens. Le vice-président salvadorien Félix Ulloa fixe la visite de Fils-Aimé aux 16 et 17 nov. Déclaration du G7 en appui à la FRG"
+    },
+    {
+      "date": "12 nov. 2026",
+      "sort": "2026-11-12",
+      "event": "Opération de la FRG à Cité Soleil : un présumé membre de gang tué, deux blessés, armes, munitions et cocktails Molotov saisis (Le Nouvelliste). La PNH annonce la reprise du stade Sylvio-Cator et le remet aux militaires salvadoriens, qui veulent y établir une base; Bukele affirme que des crânes humains y ont été découverts"
+    },
+    {
+      "date": "13 nov. 2026",
+      "sort": "2026-11-13-a",
+      "event": "Le porte-parole de la FRG confirme que la FRG n'a aucune supervision sur le nouveau contingent salvadorien (accord bilatéral). Bukele publie une vidéo de ses soldats dans le stade et lance un ultimatum aux gangs (AP). La PNH affirme avoir mené la reprise du stade elle-même (Miami Herald, 14 nov.)"
+    },
+    {
+      "date": "13 nov. 2026",
+      "sort": "2026-11-13-b",
+      "event": "La FRG mène une opération à Fort-Dimanche (Cité Soleil) : un présumé membre de gang tué, 18 armes à feu et des munitions saisies, un atelier de réparation d'armes découvert (FRG sur X). Le Canada réunit à Washington plus de 100 partenaires diplomatiques et le sous-secrétaire d'État adjoint américain pour l'hémisphère occidental pour soutenir la FRG (Le Nouvelliste)"
+    },
+    {
+      "date": "14 nov. 2026",
+      "sort": "2026-11-14",
+      "event": "Selon KOACI (sources concordantes), 812 militaires ivoiriens doivent rejoindre la FRG pour six mois, avec un état-major d'une centaine de militaires attendu à partir du 23 nov. Le nom du premier ministre Fils-Aimé disparaît de la liste des intervenants de la conférence des 16-17 nov. au Salvador, ce qui ne confirme pas, à lui seul, l'annulation de sa visite (Haitian Globe)"
+    },
+    {
+      "date": "14 nov. 2026",
+      "sort": "2026-11-14-b",
+      "event": "Massacre à Morne-Robert (Saint-Marc, Artibonite) attribué au gang Gran Grif : au moins dix agriculteurs tués selon Radio Télé Galaxie (EFE); d'autres médias locaux avancent des bilans plus élevés, non confirmés officiellement. Au Nu Stadium de Miami, pendant le match Haïti–États-Unis, une partie des supporters haïtiens scande « Bukele » (NAGO, Infobae)"
+    },
+    {
+      "date": "15 nov. 2026",
+      "sort": "2026-11-15",
+      "event": "Première offensive d'envergure de la FRG dans l'Artibonite : avec la PNH, des troupes sri-lankaises de la FRG attaquent à l'aube un bastion du gang Kokorat San Ras à Carnifice/Tibwadòm (nord de Gros-Morne); selon la FRG, cinq présumés membres de gangs tués, une église et une école reprises, des barricades et tranchées démantelées sur la route nationale 5 (FRG sur X, Miami Herald). Selon l'EFE, la FRG compte 2 181 policiers et militaires. Le ministre de la Justice Patrick Pélissier part au Salvador pour représenter le premier ministre Fils-Aimé à la conférence des 16-17 nov., à la place de la visite annoncée par le vice-président Ulloa (EFE)"
+    },
+    {
+      "date": "16 nov. 2026",
+      "sort": "2026-11-16",
+      "event": "À San Salvador, le ministre salvadorien de la Sécurité Gustavo Villatoro affirme que ses troupes quitteront Haïti dès que les quatre aérotechniciens disparus seront retrouvés; son homologue haïtien Patrick Pélissier, venu représenter le premier ministre Fils-Aimé, se dit favorable à une prolongation du déploiement et explique que le premier ministre prépare de prochaines rencontres sur ce sujet (AFP, Reuters). Le vice-président Félix Ulloa refuse de publier l'accord bilatéral de sécurité tant que les conditions ne le permettent pas (Prensa Latina, Le Quotidien 509). Le CEP signe la note CEP/DC/096-2526 confirmant la clôture de l'inscription en ligne : 33 candidats à la présidence, 535 au Sénat, 1 855 à la députation"
+    },
+    {
+      "date": "17 nov. 2026",
+      "sort": "2026-11-17",
+      "event": "Le CEP publie sur X sa note du 16 novembre sur la clôture des inscriptions; les candidats ont jusqu'au 30 novembre pour déposer leurs pièces, et l'inscription en ligne aux collectivités territoriales se poursuit jusqu'à la même date. Un « rapport de renseignement » viral sur X affirme sans preuve que la rencontre Fils-Aimé–Bukele a été « suspendue » et que le premier ministre est « en campagne » (voir la vérification)"
+    },
+    {
+      "date": "17 nov. 2026",
+      "sort": "2026-11-17-b",
+      "event": "Des milliers de personnes manifestent à Port-au-Prince en soutien aux soldats salvadoriens (heurts et gaz lacrymogène en fin de cortège). Le Conseil des ministres entérine un « accord de coopération » avec le Salvador, dont le texte et la durée ne sont pas publiés. Le Haut-Commissariat de l'ONU aux droits de l'homme recense 4 595 morts et 2 050 blessés par la violence armée de janvier à octobre 2026 (AFP / France 24)"
+    },
+    {
+      "date": "18 nov. 2026",
+      "sort": "2026-11-18",
+      "event": "Des publications sur X affirment que l'accord garantit le maintien des troupes salvadoriennes jusqu'aux élections (verdict : trompeur)"
+    },
+    {
+      "date": "18 nov. 2026",
+      "sort": "2026-11-18-b",
+      "event": "Pour l'anniversaire de la bataille de Vertières, Nayib Bukele publie une vidéo d'hélicoptères salvadoriens frappant la résidence de Jeff Larose (« Jeff Canaan », gang « Taliban ») à Canaan; on ignore si le chef de gang a été tué. La FRG dit ne pas avoir participé à l'opération; deuxième jour de manifestations pro-Bukele à Port-au-Prince (AP). La FRG poursuit son offensive au nord de Gros-Morne (Artibonite), le long de la route nationale 5 (communiqué de la FRG, 18 nov.). Une délégation du CEP et du PNUD évalue à Copenhague des échantillons de matériel électoral (CEP sur X)"
+    },
+    {
+      "date": "19 nov. 2026",
+      "sort": "2026-11-19",
+      "event": "La PNH et la Task Force mènent à Martissant (Martissant 2, 4 et 23) une vaste opération contre le gang de Grand Ravine de « Ti Lapli »; la PNH annonce 34 présumés bandits tués et précise qu'aucun personnel salvadorien n'y a participé (Reuters, AP). La FRG dit entrer dans une « nouvelle phase » et poursuit ses opérations à Tabarre, le long de la route nationale 1 au nord de l'aéroport et de la route nationale 5 au nord de Gros-Morne (FRG / AP)"
+    },
+    {
+      "date": "19-20 nov. 2026",
+      "sort": "2026-11-19-b",
+      "event": "Des publications sur X présentent comme récente la loi salvadorienne autorisant la participation des militaires du Salvador à la FRG jusqu'en octobre 2027, adoptée en réalité le 29 septembre 2026 (verdict : trompeur). D'autres attribuent l'opération de Martissant aux soldats salvadoriens, ce que dément la PNH (verdict : trompeur)"
+    },
+    {
+      "date": "19 nov. 2026",
+      "sort": "2026-11-19-c",
+      "event": "La FRG annonce l'installation d'une base au nord de l'aéroport international Toussaint-Louverture, près de la route nationale 1 (Tabarre), pour y maintenir ses opérations contre les gangs et rétablir la circulation"
+    },
+    {
+      "date": "20 nov. 2026",
+      "sort": "2026-11-20",
+      "event": "La Force armée du Salvador annonce que quatre de ses militaires ont été touchés par une détonation accidentelle en manipulant des explosifs dans un campement en Haïti : deux morts, puis un troisième décédé dans un hôpital de la République dominicaine. Ce sont les premiers décès annoncés du contingent salvadorien. Le même jour, le ministre haïtien de la Justice, Patrick Pélissier, de retour du Salvador (visite du CECOT le 18 nov.), annonce un accord pour la construction de trois prisons en Haïti avec une entreprise salvadorienne et une entreprise haïtienne (lieux, coût et financement non précisés)"
+    },
+    {
+      "date": "20-21 nov. 2026",
+      "sort": "2026-11-20-b",
+      "event": "Des publications sur X affirment que les soldats salvadoriens morts ont été tués par des gangs, ce que contredit la Force armée du Salvador (verdict : faux). Une vidéo de distribution d'eau tournée en Côte d'Ivoire est présentée comme un geste d'Haïtiens envers les soldats salvadoriens (AFP Factual, verdict : faux)"
+    },
+    {
+      "date": "21-22 nov. 2026",
+      "sort": "2026-11-21",
+      "event": "Des publications virales sur X affirment que des gangs ont décapité un enfant à Saut-d'Eau (Sodo) pour avoir crié « Vive Bukele »; l'âge, l'identité et le mobile varient selon les versions et aucune source officielle ne les confirme (verdict : non vérifié)"
+    },
+    {
+      "date": "22 nov. 2026",
+      "sort": "2026-11-22",
+      "event": "La FRG mène des opérations simultanées à Cité Soleil (un présumé membre de gang tué, un blessé), à Tabarre près du pont Marassa (au moins six présumés membres de gangs tués, cinq fusils saisis) et au nord de Gros-Morne (Artibonite). Le premier ministre Alix Didier Fils-Aimé visite la base des soldats salvadoriens. Nayib Bukele nomme les trois militaires morts le 20 nov. et annonce un fonds d'un million de dollars pour leurs familles"
+    },
+    {
+      "date": "18-22 nov. 2026",
+      "sort": "2026-11-22-b",
+      "event": "Des vidéos montrent des membres du gang 400 Mawozo exhibant à Croix-des-Bouquets un drone présenté comme salvadorien et intercepté; des comptes sur X affirment au contraire qu'il appartient à Vectus Global. Aucune source officielle ne confirme l'une ou l'autre version (verdict : non vérifié)"
+    },
+    {
+      "date": "21 nov. 2026",
+      "sort": "2026-11-21-b",
+      "event": "Nayib Bukele publie sur X des images d'un nouveau lot de véhicules tout-terrain blindés envoyés à ses troupes en Haïti (au moins 20 selon Diario El Salvador); la présidence salvadorienne dit qu'il renforce la recherche des quatre aérotechniciens disparus"
+    },
+    {
+      "date": "23 nov. 2026",
+      "sort": "2026-11-23",
+      "event": "Le gouvernement haïtien reçoit dix véhicules blindés du Bureau d'appui des Nations unies en Haïti (BANUH/UNSOH) pour la FRG; le premier ministre Alix Didier Fils-Aimé en remet les clés au représentant spécial de la FRG, Jack Christofides (Primature). La FRG annonce la saisie de 10 armes à feu, d'environ 110 cartouches et de grenades lors d'opérations à Pandou, au nord de Gros-Morne (22 nov.). La PNH porte à 54 le nombre de présumés membres de gangs tués à Martissant les 19 et 20 nov. (EFE)"
+    },
+    {
+      "date": "18-23 nov. 2026",
+      "sort": "2026-11-23-b",
+      "event": "Une vidéo montrant des soldats salvadoriens mettant à genoux des membres de gangs capturés en Haïti, partagée près de 8 000 fois, a été générée par intelligence artificielle (AFP Factual, verdict : faux)"
+    },
+    {
+      "date": "14-24 nov. 2026",
+      "sort": "2026-11-24-b",
+      "event": "Une vidéo montrant des soldats salvadoriens transportant en camion des membres de gangs menottés, partagée plus de 700 fois, a été générée par intelligence artificielle; aucun des deux gouvernements n'a diffusé d'images d'arrestations (AFP Factual, verdict : faux)"
+    },
+    {
+      "date": "24 nov. 2026",
+      "sort": "2026-11-24",
+      "event": "Le premier ministre Alix Didier Fils-Aimé défend sur X l'accord avec le Salvador au nom de « l'urgence sécuritaire nationale », en réponse à Amnesty International, qui demande que l'accord soit rendu public (AFP). Le porte-parole de la FRG, Igor Rugwiza, annonce sur Radio Télé Galaxie que les patrouilles fixes et mobiles de la force s'étendront progressivement jusqu'à Saint-Marc, tout en reconnaissant que la mission ne peut pas intervenir simultanément partout (Vant Bèf Info)"
+    }
   ]
 }

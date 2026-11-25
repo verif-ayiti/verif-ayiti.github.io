@@ -1,6 +1,27 @@
 {
   "posts": [
     {
+      "slug": "video-ia-soldats-salvadoriens-gangs-camion",
+      "title": "Une vidéo montre des soldats salvadoriens transportant en camion des membres de gangs arrêtés en Haïti",
+      "claim": "« Siguen cayendo las bandas de Haití por los military de El Salvador » (« Les gangs d'Haïti continuent de tomber face aux militaires du Salvador »), avec une vidéo de soldats escortant dans un camion des hommes menottés, parfois accompagnée de la mention « pour le Cecot »",
+      "circulated": "X, Facebook, TikTok et YouTube depuis le 15 nov. 2026; partagée plus de 700 fois selon l'AFP. Plus ancienne version retrouvée : 14 nov. 2026, sur une page Facebook se décrivant comme un « site de divertissement » qui publie des scènes de l'intervention salvadorienne fabriquées par IA",
+      "verdict": "Faux",
+      "facts": "Selon AFP Factual (24 nov. 2026), la vidéo présente des incohérences typiques des contenus générés par intelligence artificielle, comme un pied qui n'appartient à personne et la crosse d'une arme qui apparaît puis disparaît. L'uniforme ne correspond pas à celui des soldats salvadoriens, qui portent un drapeau avec le nom du pays entre les bandes et un écusson en dessous. L'outil DeepFake d'InVID-WeVerify donne 66 % de probabilité d'une génération par IA, et la page Facebook d'origine porte l'étiquette « Contenu d'IA » de Meta. À la date de la vérification, ni le gouvernement haïtien ni le gouvernement salvadorien n'avaient diffusé d'images d'arrestations de membres de gangs. Les soldats salvadoriens mènent bien des opérations réelles en Haïti, mais cette vidéo n'en montre aucune. Le « Cecot » est la méga-prison salvadorienne (Centre de confinement du terrorisme).",
+      "date": "2026-11-24",
+      "date_display": "24 novembre 2026",
+      "date_precision": "day",
+      "sources": [
+        {
+          "title": "Un grupo de militares salvadoreños no arrestó a pandilleros de Haití; es una escena creada con IA (en espagnol)",
+          "site": "AFP Factual",
+          "date": "24 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D8EF6WF",
+          "primary": true
+        }
+      ],
+      "order": 1
+    },
+    {
       "slug": "video-ia-soldats-salvadoriens-pandilleros-a-genoux",
       "title": "Une vidéo montre des soldats salvadoriens mettant à genoux des membres de gangs capturés en Haïti",
       "claim": "« L'armée du Salvador met à genoux des pandilleros haïtiens après les avoir capturés dans le cadre de l'opération militaire de Bukele en Haïti »",
