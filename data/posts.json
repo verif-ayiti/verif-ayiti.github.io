@@ -1,6 +1,55 @@
 {
   "posts": [
     {
+      "slug": "salvador-deux-nouvelles-bases-carrefour-gressier",
+      "title": "Le Salvador ouvrirait deux nouvelles bases militaires à Carrefour et à Gressier",
+      "claim": "« Le Salvador prévoit de renforcer son dispositif militaire en Haïti avec l'installation de deux nouvelles bases à Carrefour et à Gressier, en complément de celle du stade Sylvio Cator »; en espagnol : « San Salvador anuncia dos nuevas bases militares en Carrefour y Gressier »",
+      "circulated": "X et médias en ligne haïtiens depuis le 23-24 nov. 2026 (publication de Vant Bèf Info vue plus de 59 000 fois; version espagnole vue plus de 32 000 fois le 25 nov.), puis reprise dans des revues de presse le 26 nov.",
+      "verdict": "Non vérifié",
+      "facts": "Au 26 novembre 2026, aucune annonce officielle du gouvernement salvadorien, de la présidence de Nayib Bukele, de la Force armée salvadorienne, du gouvernement haïtien ni de la PNH confirmant de nouvelles bases salvadoriennes à Carrefour et à Gressier n'a été trouvée. Les articles qui relaient l'information citent « plusieurs médias haïtiens » ou « des informations parvenues à notre rédaction »; Savoir d'Haïti précise lui-même que ces installations « restent à confirmer officiellement ». Contrairement à ce qu'affirme la version espagnole, San Salvador n'a rien « annoncé » publiquement. Ce qui a bien été annoncé le 25 novembre, c'est autre chose : la PNH, avec la Force de répression des gangs (FRG), prévoit cinq bases opérationnelles avancées (FOB) à Kenscoff, Tabarre, Arcahaie, Gressier et Port-au-Prince, financées par l'Union européenne et mises en œuvre par l'Organisation des États américains (OEA) (Le Nouvelliste, DW/EFE). Ces bases ne sont pas présentées comme salvadoriennes et Carrefour n'y figure pas. Rappel : la majorité des quelque 2 000 soldats salvadoriens arrivés fin octobre ne relève pas de la FRG soutenue par l'ONU (ONU Info). L'affirmation reste possible, mais elle n'est pas confirmée à ce jour.",
+      "date": "2026-11-26",
+      "date_display": "26 novembre 2026",
+      "date_precision": "day",
+      "sources": [
+        {
+          "title": "PNH-FRG : cinq bases opérationnelles avancées prévues dans cinq communes",
+          "site": "Le Nouvelliste",
+          "date": "25 nov. 2026",
+          "href": "https://lenouvelliste.com/article/274253/pnh-frg-cinq-bases-operationnelles-avancees-prevues-dans-cinq-communes",
+          "primary": true
+        },
+        {
+          "title": "Al menos 10 muertos y siete heridos en ataque armado en Haití (bases avancées PNH-FRG financées par l'UE et l'OEA) (en espagnol)",
+          "site": "DW (EFE)",
+          "date": "26 nov. 2026",
+          "href": "https://www.dw.com/es/al-menos-10-muertos-y-siete-heridos-en-un-ataque-de-las-bandas-armadas-en-kenscofff-hait%C3%AD/a-80055834",
+          "primary": false
+        },
+        {
+          "title": "Haïti : le Salvador envisage 2 nouvelles bases militaires à Carrefour et à Gressier (« restent à confirmer officiellement »)",
+          "site": "Savoir d'Haïti",
+          "date": "25 nov. 2026",
+          "href": "https://www.savoir-haiti.info/haiti-le-salvador-envisage-2-nouvelles-bases-militaires-a-carrefour-et-a-gressier",
+          "primary": false
+        },
+        {
+          "title": "Publication virale sur les deux bases (exemple)",
+          "site": "X (Vant Bèf Info)",
+          "date": "24 nov. 2026",
+          "href": "https://x.com/vantbefinfo/status/2125023227797770569",
+          "primary": false
+        },
+        {
+          "title": "Haïti : l'ONU clarifie sa relation avec le déploiement militaire du Salvador",
+          "site": "ONU Info",
+          "date": "nov. 2026",
+          "href": "https://news.un.org/fr/story/2026/11/1159776",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "video-ia-soldats-salvadoriens-gangs-camion",
       "title": "Une vidéo montre des soldats salvadoriens transportant en camion des membres de gangs arrêtés en Haïti",
       "claim": "« Siguen cayendo las bandas de Haití por los military de El Salvador » (« Les gangs d'Haïti continuent de tomber face aux militaires du Salvador »), avec une vidéo de soldats escortant dans un camion des hommes menottés, parfois accompagnée de la mention « pour le Cecot »",

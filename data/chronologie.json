@@ -1,5 +1,5 @@
 {
-  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 24 novembre 2026.",
+  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 26 novembre 2026.",
   "events": [
     {
       "date": "Oct. 2023",
@@ -230,6 +230,21 @@
       "date": "24 nov. 2026",
       "sort": "2026-11-24",
       "event": "Le premier ministre Alix Didier Fils-Aimé défend sur X l'accord avec le Salvador au nom de « l'urgence sécuritaire nationale », en réponse à Amnesty International, qui demande que l'accord soit rendu public (AFP). Le porte-parole de la FRG, Igor Rugwiza, annonce sur Radio Télé Galaxie que les patrouilles fixes et mobiles de la force s'étendront progressivement jusqu'à Saint-Marc, tout en reconnaissant que la mission ne peut pas intervenir simultanément partout (Vant Bèf Info)"
+    },
+    {
+      "date": "25 nov. 2026",
+      "sort": "2026-11-25",
+      "event": "Le porte-parole de la FRG, Igor Rugwiza, affirme sur Magik9 (Panel Magik) que la force continue de recevoir régulièrement des troupes et des moyens en attendant d'atteindre son plein effectif. La PNH annonce, avec la FRG, cinq bases opérationnelles avancées à Kenscoff, Tabarre, Arcahaie, Gressier et Port-au-Prince, financées par l'Union européenne et mises en œuvre par l'OEA (Le Nouvelliste)"
+    },
+    {
+      "date": "25 nov. 2026",
+      "sort": "2026-11-25-b",
+      "event": "Au moins 10 morts et 7 blessés par balles et à la machette dans l'attaque d'un marché informel à Bongard (ou Bongars, Kenscoff) par des hommes armés venus de Clémenceau, selon la PNH, qui lance une opération terrestre et aérienne avec la Task Force de Vectus Global (DW/EFE)"
+    },
+    {
+      "date": "24-26 nov. 2026",
+      "sort": "2026-11-26",
+      "event": "Des publications virales affirment que le Salvador va ouvrir deux nouvelles bases militaires à Carrefour et à Gressier; aucune annonce officielle salvadorienne ou haïtienne ne le confirme, et les bases annoncées le 25 nov. sont des bases PNH-FRG (verdict : non vérifié)"
     }
   ]
 }
