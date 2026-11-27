@@ -1,6 +1,53 @@
 {
  "posts": [
   {
+   "slug": "depot-des-pieces-deja-clos",
+   "title": "Le dépôt des pièces des candidats à la présidence et aux législatives serait déjà clos",
+   "claim": "« Le dépôt des pièces des candidats à la présidence et aux législatives est clos, tout comme l'inscription en ligne des candidats aux collectivités territoriales »",
+   "circulated": "X (publication d'un média en ligne, 26 nov. 2026, peu partagée), à quatre jours de l'échéance",
+   "verdict": "Faux",
+   "facts": "Au 26 novembre 2026, rien n'était clos. Dans sa note de presse CEP/DC/102-2526 du 26 novembre 2026 (qui remplace la note 101-2526 du 25 novembre), le Conseil électoral provisoire (CEP) rappelle que le délai de dépôt des pièces requises pour les candidats à la présidence, au Sénat et à la députation « arrivera à échéance le lundi 30 novembre 2026 », et que l'inscription en ligne des candidats aux collectivités territoriales (maire, CASEC, ASEC) « prendra fin le 30 novembre 2026, à minuit ». La note précise aussi que les Bureaux électoraux communaux (BEC) continuent de recevoir les pièces des candidats aux collectivités territoriales jusqu'au 30 décembre 2026. Ces dates sont conformes au calendrier électoral actualisé publié le 28 octobre 2026. La publication semble avoir mal lu le titre de la note du CEP, qui annonce la « fin » de ces étapes sans qu'elle soit déjà arrivée. Au 27 novembre au matin, le tableau public du CEP continuait d'ailleurs d'enregistrer de nouvelles inscriptions aux collectivités territoriales. Le CEP n'a annoncé aucun report de ces échéances.",
+   "sources": [
+    {
+     "title": "Note de presse CEP/DC/102-2526 : dépôt des pièces des candidats à la présidence et aux législatives et fin de l'inscription en ligne des candidats aux collectivités territoriales (PDF)",
+     "site": "Conseil électoral provisoire",
+     "date": "26 nov. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/11/NOTE-102-DEPOT-ET-INSCRIPTION-EN-LIGNE.pdf",
+     "primary": true
+    },
+    {
+     "title": "Dépôt des pièces des candidats à la présidence et aux législatives et fin de l'inscription en ligne des candidats aux collectivités territoriales",
+     "site": "CEP Haïti",
+     "date": "26 nov. 2026",
+     "href": "https://cephaiti.ht/depot-des-pieces-des-candidats-a-la-presidence-et-aux-legislatives-et-fin-de-linscription-en-ligne-des-candidats-aux-collectivites-territoriales/"
+    },
+    {
+     "title": "Calendrier électoral actualisé 2026-2027 (PDF)",
+     "site": "Conseil électoral provisoire",
+     "date": "28 oct. 2026",
+     "href": "https://cephaiti.ht/wp-content/uploads/2026/10/CALENDRIER-ACTUALISE-2026-2027.pdf"
+    },
+    {
+     "title": "Annonce de la note sur X",
+     "site": "X (@cep_haiti)",
+     "date": "26 nov. 2026",
+     "href": "https://x.com/cep_haiti/status/2125989512019083440"
+    },
+    {
+     "title": "Publication analysée",
+     "site": "X",
+     "date": "26 nov. 2026",
+     "href": "https://x.com/lequotidien509/status/2125998025348702669"
+    }
+   ],
+   "order": 0,
+   "date": "2026-11-27",
+   "date_display": "27 novembre 2026",
+   "date_precision": "day",
+   "updated": "2026-11-27",
+   "section": "elections"
+  },
+  {
    "slug": "dominique-dupuy-nationalite-canadienne",
    "title": "La candidate Dominique Dupuy serait de nationalité canadienne",
    "claim": "« Je confirme à 100 % qu'elle est de nationalité canadienne » : la candidate devrait publier sa carte de résidente permanente du Canada sous 48 h, faute de quoi elle « assume sa nationalité canadienne »",

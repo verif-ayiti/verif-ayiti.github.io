@@ -1,5 +1,5 @@
 {
-  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 26 novembre 2026.",
+  "intro": "Chronologie de la mission de sécurité internationale et des événements liés aux rumeurs vérifiées, à jour au 27 novembre 2026.",
   "events": [
     {
       "date": "Oct. 2023",
@@ -245,6 +245,11 @@
       "date": "24-26 nov. 2026",
       "sort": "2026-11-26",
       "event": "Des publications virales affirment que le Salvador va ouvrir deux nouvelles bases militaires à Carrefour et à Gressier; aucune annonce officielle salvadorienne ou haïtienne ne le confirme, et les bases annoncées le 25 nov. sont des bases PNH-FRG (verdict : non vérifié)"
+    },
+    {
+      "date": "26 nov. 2026",
+      "sort": "2026-11-26-b",
+      "event": "AFP Factual montre qu'une vidéo virale présentée comme des Haïtiens nettoyant leurs rues « après l'offensive de Bukele » date du 5 octobre 2026 et montre une opération de nettoyage du Service national de gestion des résidus solides (SNGRS), avant l'arrivée des troupes salvadoriennes (verdict : faux)"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
- "snapshot_utc": "2026-11-26T13:15:08Z",
- "snapshot_display": "26 novembre 2026 à 8 h 15 (heure d'Haïti, UTC−5)",
- "snapshot_note": "Relevé effectué après la clôture des inscriptions en ligne pour la présidentielle, le Sénat et la députation (15 novembre 2026 à minuit). Dans sa note de presse CEP/DC/096-2526 du 16 novembre 2026, le CEP confirme cette clôture et annonce 33 candidats à la présidence, 535 au Sénat et 1 855 à la députation, qui ont encore jusqu'au 30 novembre pour déposer leurs pièces auprès des bureaux électoraux départementaux. L'inscription en ligne des candidats aux collectivités territoriales (maire, CASEC, ASEC) se poursuit jusqu'au 30 novembre 2026 : ces chiffres continuent donc d'augmenter. Les chiffres du tableau sont préliminaires. Les 25 et 26 novembre, le point d'accès de la liste présidentielle était bloqué par une protection anti-robots; le tableau du CEP indique toujours 33 candidats à la présidence, et la liste présidentielle ci-dessous reprend le relevé du 24 novembre.",
+ "snapshot_utc": "2026-11-27T13:16:21Z",
+ "snapshot_display": "27 novembre 2026 à 8 h 16 (heure d'Haïti, UTC−5)",
+ "snapshot_note": "Relevé effectué après la clôture des inscriptions en ligne pour la présidentielle, le Sénat et la députation (15 novembre 2026 à minuit). Dans sa note de presse CEP/DC/096-2526 du 16 novembre 2026, le CEP confirme cette clôture et annonce 33 candidats à la présidence, 535 au Sénat et 1 855 à la députation, qui ont encore jusqu'au 30 novembre pour déposer leurs pièces auprès des bureaux électoraux départementaux. L'inscription en ligne des candidats aux collectivités territoriales (maire, CASEC, ASEC) se poursuit jusqu'au 30 novembre 2026 : ces chiffres continuent donc d'augmenter. Les chiffres du tableau sont préliminaires. Du 25 au 27 novembre, le point d'accès de la liste présidentielle était bloqué par une protection anti-robots; le tableau du CEP indique toujours 33 candidats à la présidence, et la liste présidentielle ci-dessous reprend le relevé du 24 novembre.",
  "source_tableau": "https://tableau.cephaiti.ht/",
  "source_api": "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Président",
  "avis_cep": "Les données affichées sont dynamiques et strictement préliminaires. La liste officielle et définitive des candidats sera publiée par le CEP uniquement après le processus de vérification et de validation des dossiers.",
  "statut_affiche": "Inscrit en ligne (non validé par le CEP)",
- "total_tableau": 14820,
+ "total_tableau": 15333,
  "postes": [
   {
    "poste": "Président",
@@ -28,21 +28,21 @@
   },
   {
    "poste": "Maire",
-   "inscrits": 3331,
-   "hommes": 2140,
-   "femmes": 1191
+   "inscrits": 3385,
+   "hommes": 2169,
+   "femmes": 1216
   },
   {
    "poste": "CASEC",
-   "inscrits": 5183,
-   "hommes": 3404,
-   "femmes": 1779
+   "inscrits": 5433,
+   "hommes": 3572,
+   "femmes": 1861
   },
   {
    "poste": "ASEC",
-   "inscrits": 3883,
-   "hommes": 2284,
-   "femmes": 1599
+   "inscrits": 4092,
+   "hommes": 2414,
+   "femmes": 1678
   }
  ],
  "president": [

@@ -1,6 +1,34 @@
 {
   "posts": [
     {
+      "slug": "video-nettoyage-rues-port-au-prince-offensive-bukele",
+      "title": "Une vidéo montre des Haïtiens nettoyant leurs rues après l'offensive de Bukele contre les gangs",
+      "claim": "« Des Haïtiens prennent les rues et nettoient leur ville après que le président Bukele s'est débarrassé des gangs dans la zone »; en espagnol : « HAITIANOS RECUPERAN SUS CALLES TRAS LA OFENSIVA DE BUKELE »",
+      "circulated": "X et Facebook (notamment La Derecha Diario), en espagnol, depuis la mi-novembre 2026; partagée plus de 7 800 fois selon l'AFP",
+      "verdict": "Faux",
+      "facts": "Selon AFP Factual (26 nov. 2026), cette vidéo d'hommes ramassant des débris dans une rue de Port-au-Prince, d'où l'on aperçoit la tour du Bicentenaire (place du Champ-de-Mars), circule depuis le 5 octobre 2026, soit plusieurs semaines avant l'arrivée des troupes salvadoriennes fin octobre. Une recherche inversée a permis à l'AFP de retrouver une version de meilleure qualité publiée sur YouTube le 5 octobre par le média local Radio Télé Canari, avec une description en créole indiquant que le directeur général adjoint du Service national de gestion des résidus solides (SNGRS), Ernseau Létang, nettoyait le centre-ville. La même vidéo figure le même jour sur la page Facebook du SNGRS, sous le titre « SNGRS en action ». Il s'agit donc d'une opération de nettoyage menée par les autorités haïtiennes, sans lien avec le déploiement salvadorien. Le contexte, lui, est réel : plus de 2 000 soldats salvadoriens sont en Haïti depuis fin octobre, et des milliers de personnes ont manifesté le 17 novembre à Port-au-Prince en soutien à leurs opérations (AFP).",
+      "date": "2026-11-27",
+      "date_display": "27 novembre 2026",
+      "date_precision": "day",
+      "sources": [
+        {
+          "title": "Video de limpieza de calles en Haití se vincula falsamente al despliegue militar de El Salvador (en espagnol)",
+          "site": "AFP Factual",
+          "date": "26 nov. 2026",
+          "href": "https://factual.afp.com/doc.afp.com.D8QB39E",
+          "primary": true
+        },
+        {
+          "title": "Publication virale (« HAITIANOS RECUPERAN SUS CALLES TRAS LA OFENSIVA DE BUKELE »)",
+          "site": "X",
+          "date": "15 nov. 2026",
+          "href": "https://x.com/periodistassin2/status/2121980109158494713",
+          "primary": false
+        }
+      ],
+      "order": 0
+    },
+    {
       "slug": "salvador-deux-nouvelles-bases-carrefour-gressier",
       "title": "Le Salvador ouvrirait deux nouvelles bases militaires à Carrefour et à Gressier",
       "claim": "« Le Salvador prévoit de renforcer son dispositif militaire en Haïti avec l'installation de deux nouvelles bases à Carrefour et à Gressier, en complément de celle du stade Sylvio Cator »; en espagnol : « San Salvador anuncia dos nuevas bases militares en Carrefour y Gressier »",
